@@ -14,4 +14,8 @@
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
+
+Manual Testing:    JIRA · Postman · 
+Automation:        Playwright · TypeScript · GitHub Actions  · Git
+Other:             Page Object Model (POM) · Agile/Scrum · Bug Reporting
